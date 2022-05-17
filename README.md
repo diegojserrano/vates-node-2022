@@ -16,6 +16,12 @@ En el módulo 1 se presenta el lenguaje Javacript con el objetivo de nivelar los
 
 El módulo 2 se centra en Node.js para el uso de javacript como un lenguaje de uso general para el escritorio y para la creación de APIs mediante el framework express.
 
+## Material
+
+[Repositorio de github](https://github.com/diegojserrano/vates-node-2022)
+
+[Playlist de youtube](https://www.youtube.com/playlist?list=PL4irC4YYLZzKy0OGab7og8vcgWcE5bywn)
+
 ## Clases
 
 ### [Clase 1: Introducción](/clase01/README.md)
