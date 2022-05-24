@@ -28,3 +28,6 @@ El módulo 2 se centra en Node.js para el uso de javacript como un lenguaje de u
 
 ### [Clase 2: Programación estructurada](/clase02/README.md)
 
+### [Clase 3: Arreglos](/clase03/README.md)
+
+
