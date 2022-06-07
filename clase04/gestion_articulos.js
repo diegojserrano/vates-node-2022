@@ -75,8 +75,6 @@ if (cantidad > 0) {
 
     const promedio = promedio_precios(articulos)
 
-    let prom2 = articulos.map(a => a.precio).reduce((a,b) => a+b) / articulos.length 
-
     console.log(`Promedio de precios: ${promedio}`)
 
     const mas_caro = articulo_mas_caro(articulos)
