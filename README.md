@@ -36,3 +36,8 @@ El módulo 2 se centra en Node.js para el uso de javacript como un lenguaje de u
 
 ### [Clase 6: Programación funcional](/clase06/README.md)
 
+### [Clase 7: Ejercitación de programación funcional](/clase07/README.md)
+
+### [Clase 8: Servidores http](/clase08/README.md)
+
+### [Clase 9: ABM en memoria](/clase09/README.md)

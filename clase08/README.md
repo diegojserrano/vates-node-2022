@@ -10,9 +10,10 @@
 * Routers
 
 ## Material
-* [Clase completa (YouTube)]()
+* [Clase completa (YouTube)](https://www.youtube.com/watch?v=6-ppHJsxz1U)
 
-* [Resumen]()
+* [Resumen http](https://www.xmind.net/m/dxr82p)
+* [Resumen express](https://www.xmind.net/m/PtidcD)
 
 ## Ejercitación
 
