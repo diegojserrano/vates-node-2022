@@ -41,3 +41,7 @@ El módulo 2 se centra en Node.js para el uso de javacript como un lenguaje de u
 ### [Clase 8: Servidores http](/clase08/README.md)
 
 ### [Clase 9: ABM en memoria](/clase09/README.md)
+
+### [Clase 10: Acceso a bases de datos](/clase10/README.md)
+
+### [Clase 11: Ejercitacion API con BD](/clase11/README.md)
