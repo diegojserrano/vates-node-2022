@@ -45,3 +45,5 @@ El módulo 2 se centra en Node.js para el uso de javacript como un lenguaje de u
 ### [Clase 10: Acceso a bases de datos](/clase10/README.md)
 
 ### [Clase 11: Ejercitacion API con BD](/clase11/README.md)
+
+### [Clase 12: Cierre](/clase12/README.md)
